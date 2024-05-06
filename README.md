@@ -13,3 +13,5 @@ The game starts with a team of four characters named Taffy, Bansy, Alan, Mechani
 Judging from the trailer, some characters are skilled with firearms, making Project Mugen turn into a shooter
 
 you will find a verified and safe download file at the end of the post
+
+[<img src="https://github.com/robdiane/mugen/blob/main/mugen.jpg"/>]
